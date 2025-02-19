@@ -28,7 +28,7 @@
     "@nestjs/platform-fastify": "^8.0.9",
     "@nestjs/terminus": "^8.0.1",
     "@nestjs/throttler": "^2.0.0",
-    "@sentry/node": "^6.13.2",
+    "@sentry/node": "^8.52.0",
     "@types/cache-manager": "^3.4.2",
     "@willsoto/nestjs-prometheus": "^4.6.0",
     "cache-manager": "^3.4.4",
