@@ -982,15 +982,14 @@
     webpack "5.64.1"
     webpack-node-externals "3.0.0"
 
-"@nestjs/common@^8.0.0":
-  version "8.2.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-8.2.3.tgz#77ac1ef59c36dd9ae131f5c5ddabfc6258802d1c"
-  integrity sha512-slXVVMc9tZG6ZaARXkTUsSqZbkEcc0hVKb4mPLxS9mjXmDspUleGQakZ5OzniiEWqzO299BVlEbm6TGyoGbpNg==
+"@nestjs/common@^11.0.6":
+  version "11.0.10"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-11.0.10.tgz#c300168171896d0ae7d189e5237ab6c30d1b64ef"
+  integrity sha512-pzGXp14KF2Q4CDZGQgPK4l8zEg7i6cNkb+10yc8ZA5K41cLe3ZbWW1YxtY2e/glHauOJwTLSVjH4tiRVtOTizg==
   dependencies:
-    axios "0.24.0"
+    uid "2.0.2"
     iterare "1.2.1"
-    tslib "2.3.1"
-    uuid "8.3.2"
+    tslib "2.8.1"
 
 "@nestjs/config@^1.0.1":
   version "1.1.3"
@@ -1826,13 +1825,6 @@ avvio@^7.1.2:
     debug "^4.0.0"
     fastq "^1.6.1"
     queue-microtask "^1.1.2"
-
-axios@0.24.0:
-  version "0.24.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.24.0.tgz#804e6fa1e4b9c5288501dd9dff56a7a0940d20d6"
-  integrity sha512-Q6cWsys88HoPgAaFAVUb0WpPk0O8iTeisR9IMqy9G8AbO4NlpVknrnQS03zzF9PGAWgO3cgletO3VjV/P7VztA==
-  dependencies:
-    follow-redirects "^1.14.4"
 
 babel-jest@^27.3.1:
   version "27.3.1"
@@ -3030,11 +3022,6 @@ fn.name@1.x.x:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/fn.name/-/fn.name-1.1.0.tgz#26cad8017967aea8731bc42961d04a3d5988accc"
   integrity sha512-GRnmB5gPyJpAhTQdSZTSp9uaPSvl09KoYcMQtsB9rQoOmzs9dH6ffeccH+Z+cv6P68Hu5bC6JjRh4Ah/mHSNRw==
-
-follow-redirects@^1.14.4:
-  version "1.14.5"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.5.tgz#f09a5848981d3c772b5392309778523f8d85c381"
-  integrity sha512-wtphSXy7d4/OR+MvIFbCVBDzZ5520qV8XfPklSN5QtxuMUJZ+b0Wnst1e1lCDocfzuCkHqj8k0FpZqO+UIaKNA==
 
 fork-ts-checker-webpack-plugin@6.4.0:
   version "6.4.0"
