@@ -23,7 +23,7 @@
   "dependencies": {
     "@lido-sdk/constants": "^1.6.1",
     "@nestjs/common": "^11.0.6",
-    "@nestjs/config": "^1.0.1",
+    "@nestjs/config": "^4.0.0",
     "@nestjs/core": "^11.0.6",
     "@nestjs/platform-fastify": "^8.0.9",
     "@nestjs/terminus": "^11.0.0",
